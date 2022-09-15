@@ -41,3 +41,6 @@ AE_practice.py - a script for practice trials of the main task; also includes th
 fixation.py - a script that shows a fixation on the screen. Used while the localizer, T1, and GRE scans are running. 
 
 AE_final.py - the main task!
+
+
+Cite this work: [![DOI](https://zenodo.org/badge/537201739.svg)](https://zenodo.org/badge/latestdoi/537201739)
